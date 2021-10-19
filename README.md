@@ -8,6 +8,15 @@ für den 20.10.2021 bis 18:00Uhr
 - [Das ist mein Moodboard](Ressources/Moodboard YGO.pdf)
 
 
+
+
+
+
+
+
+
+
+
 ### Markdown Quickaccess für mich, alles hier drunter bitte ignorieren
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
