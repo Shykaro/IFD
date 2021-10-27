@@ -20,6 +20,8 @@ für den 27.10.2021 bis 18:00Uhr
 
 ### Markdown Quickaccess für mich, alles hier drunter bitte ignorieren
 
+- [Link zu Pages](https://xanderthier.github.io/IFD)
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
