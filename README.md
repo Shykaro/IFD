@@ -8,9 +8,10 @@ für den 20.10.2021 bis 18:00Uhr
 - [Das ist mein Moodboard](Ressources/Moodboard YGO.pdf)
 
 
+### Aufgabe 02
+für den 27.10.2021 bis 18:00Uhr
 
-
-
+- [Das ist mein Prototyping-Ansatz](Ressources/Prototype.jpg)
 
 
 
