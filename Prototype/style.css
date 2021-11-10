@@ -1,0 +1,74 @@
+img {
+    height: 579px;
+    width: 400px;
+}
+
+.carousel {
+    padding-top: 9%;
+    --current-slide: 0;
+    --current-NOTslide: 1;
+    /* we set position relative so absolute position works properly for the buttons */
+    position: relative;
+    overflow: hidden;
+}
+
+.carousel-button {
+    /* vertically centering the buttons */
+    position: absolute;
+    top: 50%;
+    transform: translateY(-25%);
+    z-index: 1;
+    /* basic styling */
+    padding: 0;
+    margin: 0.5rem;
+    border-radius: 20%;
+    background-color: whitesmoke;
+    opacity: 40%;
+    border: none;
+    font-size: 1.5rem;
+    cursor: pointer;
+    transition: color 0.1s;
+}
+
+.carousel-button:hover {
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.carousel-button_next {
+    /* The "next slide button" will be at the right */
+    right: 0;
+}
+
+.slides {
+    display: flex;
+    justify-content: center;
+    transition: transform 0.5s;
+    transform: translateX(calc(-10% * var(--current-slide)));
+}
+
+.slide {
+    flex: 0 0 5%;
+}
+
+#placeholder {
+    opacity: 0%;
+}
+
+#slide1 {
+    transition: 0.5s;
+}
+
+#slide2 {
+    transition: 0.5s;
+}
+
+#slide3 {
+    transition: 0.5s;
+}
+
+@media screen and (min-width: 768px) {
+    .carousel-button {
+        font-size: 2rem;
+        margin: 1rem;
+    }
+}
