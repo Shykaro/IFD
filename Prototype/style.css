@@ -42,7 +42,7 @@ img {
     display: flex;
     justify-content: center;
     transition: transform 0.5s;
-    transform: translateX(calc(-10% * var(--current-slide)));
+    transform: translateX(calc(-0% * var(--current-slide)));
     /* Regulates zoom into direction, also nach links und rechts jump */
 }
 
