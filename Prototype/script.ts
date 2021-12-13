@@ -1,9 +1,20 @@
 
+/*import Splide from "@splidejs/splide";
+    
+namespace IFD{
 
-var splide = new Splide( '.splide', {
-    type   : 'loop',
-    perPage: 3,
-    focus  : 'center',
-  } );
-  
-  splide.mount();
+new Splide( ".splide" ).mount();
+
+
+
+
+var splide = new Splide( ".splide", {
+type   : "loop",
+perPage: 3,
+focus  : "center"
+} );
+
+splide.mount();
+
+
+}*/

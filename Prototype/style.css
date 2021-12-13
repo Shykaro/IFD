@@ -2,3 +2,21 @@ img {
     height: 579px;
     width: 400px;
 }
+
+.splide {
+    align-items: center;
+    align-self: center;
+    align-content: center;
+    align-tracks: center;
+    justify-content: center;
+    justify-self: center;
+    justify-items: center;
+    justify-tracks: center;
+}
+
+.splide__list {
+    justify-content: center;
+    padding: 10px;
+}
+
+.splide__slide {}

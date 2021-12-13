@@ -5,25 +5,58 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>YuGiOh Discovery</title>
-    <link rel="stylesheet" href="style.css">
-    <script src="script.js" defer></script>
-    <script src="path-to-the-file/splide.min.js"></script>
-    <link rel="icon" type="image/png" href="Media/MonsterBase.jpg">
-    <!-- Link to the file hosted on your server, -->
-    <link rel="stylesheet" href="path-to-the-file/splide.min.css">
+    <!--<link rel="stylesheet" href="style.css"> -->
 
-    <!-- or link to the CDN -->
-    <link rel="stylesheet" href="url-to-cdn/splide.min.css">
+    <script src="script.js" defer></script>
+    <script src="../Ressources/splide-3.6.9/dist/js/splide.min.js"></script>
+
+    <link rel="icon" type="image/png" href="Media/MonsterBase.jpg">
+    <!-- Link to the file hosted on your server, Ressources\splide-3.6.9\dist\js -->
+    <link rel="stylesheet" href="../Ressources/splide-3.6.9/dist/css/themes/splide-sea-green.min.css">
+    <link rel="stylesheet" href="style.css">
+
+
 </head>
 
 <body>
     <div class="splide">
         <div class="splide__track">
             <ul class="splide__list">
-                <li class="splide__slide">Slide 01</li>
-                <li class="splide__slide">Slide 02</li>
-                <li class="splide__slide">Slide 03</li>
+                <li class="splide__slide">
+
+                    <img src="Media/MonsterBase.jpg" alt="Slide 01">
+
+                </li>
+                <li class="splide__slide">
+
+                    <img src="Media/SpellBase.png" alt="Slide 02">
+
+                </li>
+                <li class="splide__slide">
+
+                    <img src="Media/TrapBase.png" alt="Slide 03">
+
+                </li>
             </ul>
         </div>
     </div>
+
+    <script>
+        new Splide('.splide').mount();
+    </script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            var splide = new Splide('.splide', {
+                typ: 'loop',
+                perPage: 3,
+                perMove: 1,
+                focus: 'center',
+
+
+            });
+            splide.mount();
+
+
+        });
+    </script>
 </body>
