@@ -15,9 +15,15 @@ für den 27.10.2021 bis 18:00Uhr
 
 
 ### Aufgabe 03
-für den
+für den 24.11.2021 bis 18:00Uhr
 
 - [Link zum Prototype](https://xanderthier.github.io/IFD/Prototype)
+
+
+### Aufgabe 07
+für den 01.12.2021 bis 18:00Uhr
+
+- [Link zum Feedback](Ressources/Zusammengetragenes Feedback aus 8 Rezipienten.pdf)
 
 
 # _______________________________________________________________________
