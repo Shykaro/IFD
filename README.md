@@ -26,6 +26,17 @@ für den 01.12.2021 bis 18:00Uhr
 - [Link zum Feedback](Ressources/Zusammengetragenes Feedback aus 8 Rezipienten.pdf)
 
 
+### Aufgabe 08
+für den 16.12.2021 bis 18:00Uhr
+
+- [Link zum Prototype Enhanced](https://xanderthier.github.io/IFD/Prototype)
+
+
+### Aufgabe 10
+für den 09.01.2022 bis 18:00Uhr
+
+- [Link zum VUI](https://xanderthier.github.io/IFD/)
+
 # _______________________________________________________________________
 
 ### Markdown Quickaccess für mich, alles hier drunter bitte ignorieren
