@@ -35,7 +35,7 @@ für den 16.12.2021 bis 18:00Uhr
 ### Aufgabe 10
 für den 09.01.2022 bis 18:00Uhr
 
-- [Link zum VUI](https://xanderthier.github.io/IFD/)
+- [Link zum VUI](Ressources/VUI Konzept.pdf)
 
 # _______________________________________________________________________
 
