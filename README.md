@@ -37,6 +37,14 @@ für den 09.01.2022 bis 18:00Uhr
 
 - [Link zum VUI](Ressources/VUI Konzept.pdf)
 
+
+### Aufgabe 12
+für den 23.01.2022 bis 18:00Uhr
+
+- WICHTIG: Github repo kopiert und auf private gesetzt. VUI erfolgt mit endabgabe.
+  Grund: Copyrighted assets.
+
+
 # _______________________________________________________________________
 
 ### Markdown Quickaccess für mich, alles hier drunter bitte ignorieren
